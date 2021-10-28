@@ -1,0 +1,7 @@
+#Bucle de control WHILE
+numero = 1
+
+while numero < 10:
+    numero += 1
+    print("El numero es: " +str(numero))
+
